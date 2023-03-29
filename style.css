@@ -1,0 +1,100 @@
+body{
+    background: url(./images\ 5.jpg);
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    text-shadow: 0 0 3px #000;
+}
+p{
+    color: #fff;
+}
+label{
+    color: #fff;
+}
+.box {
+    height: 250px;
+    width: 400px;
+    margin: 100px auto;
+    backdrop-filter: blur(50px);
+    border-radius: 10px;
+    padding: 30px;
+}
+.block {
+    border-bottom: 1px solid #ffffff;
+    margin-bottom: 15px;
+    padding: 10px 0;
+}
+.box-input {
+    background: transparent;
+    outline: none;
+    border: 0;
+    color: #fff;
+    padding-left: 100px;
+}
+.button-1 {
+    border-radius: 10px;
+    margin-left: 65px;
+    height: 40px;
+    width: 80px;
+    background-color: rgb(13, 0, 255);
+    font-weight: 600;
+}
+.button-2 {
+    border-radius: 10px;
+    margin-left: 100px;
+    height: 40px;
+    width: 80px;
+    background-color: rgb(13, 0, 255);
+    font-weight: 600;
+}
+.box-2{
+    height: 800px;
+    width: 600px;
+    margin: 0 auto;
+    backdrop-filter: blur(50px);
+    border-radius: 10px;
+    padding: 30px;
+}
+.box-redio {
+    margin: 0 auto;
+    height: 50px;
+    width: 400px;
+    border-radius: 10px;
+    padding: 30px;
+    background-color: aquamarine;
+}
+.box-3-radio{
+    height: 400px;
+    width: 600px;
+    border: 1px solid #000;
+    backdrop-filter: blur(50px);
+    border-radius: 10px;
+    padding: 30px;
+}
+.box-4{
+    height: 10  00px;
+    width: 600px;
+    backdrop-filter: blur(50px);
+    border: 1px solid #000;
+}
+.nationality-countries-file{ 
+    display: block; 
+    margin: 0px 30px; 
+} 
+.nationality-countries-div{ 
+    padding: 10px; 
+} 
+.coment{ 
+    display: block; 
+    margin: 0px 30px; 
+}
+.image{ 
+    text-align: center; 
+    display: block; 
+    margin: 0 auto; 
+    padding: 5px; 
+    border-radius: 30px; 
+}
